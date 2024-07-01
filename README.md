@@ -1,4 +1,4 @@
-# Relaxed-Newton-Fractals
+# Relaxed Newton Fractals
 
 This Python script generates Newton fractals based on a user-defined polynomial. It utilizes the relaxed Newton method, allowing for exploration of fractal patterns beyond the standard Newton-Raphson iteration.
 
