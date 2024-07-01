@@ -11,14 +11,6 @@ This Python script generates Newton fractals based on a user-defined polynomial.
 - Optionally labels roots on the output image
 - Saves output as PNG files
 
-## Requirements
-
-- Python 3.x
-- NumPy
-- Matplotlib
-- SciPy
-- SymPy
-
 ## Installation
 
 1. Ensure you have Python 3.x installed on your system.
